@@ -1,6 +1,6 @@
 ### Hey
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NeelRai&hide=stars,contribs&theme=radical)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NeelRai&hide=stars,contribs&theme=great-gatsby)
 ](https://github.com/NeelRai/github-readme-stats)
 <!--
 **NeelRai/NeelRai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
