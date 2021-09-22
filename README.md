@@ -16,8 +16,6 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NeelRai&hide=stars,contribs&theme=great-gatsby)
 ](https://github.com/NeelRai/github-readme-stats)
 
-<br />
-
 ---
 
 ### Languages and Tools 🛠 
@@ -33,8 +31,6 @@
 ![MySql](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
-
-<br/>
 
 ---
 <!--
