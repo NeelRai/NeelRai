@@ -3,7 +3,7 @@
 <!-- <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" /> -->
 
 ### About Me 🚀
-- 🎓 I’m a Pre-final year student pursuing my Bachelors in electrical engineering.
+- 🎓 I’m a Pre-final year student.
 - 👨‍💻 I’m currently working on web development technologies.
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 - ⚡ Fun fact: I love music & movies.
